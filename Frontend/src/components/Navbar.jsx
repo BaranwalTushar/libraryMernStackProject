@@ -60,7 +60,7 @@ useEffect(() => {
                  fixed top-0 right-0 left-0 z-30 ${sticky ? "sticky-navbar dark:bg-slate-950  dark:text-white shadow-md bg-base-300 duration-300 transition-all ease-in-out" : ""}`}>
                 <div className="navbar ">
                     <div className="navbar-start">
-                        <div className="dropdown">
+                        <div className="dropdown   dark:text-black">
                             <div tabIndex={0} role="button" className="btn btn-ghost lg:hidden">
                                 <svg
                                     xmlns="http://www.w3.org/2000/svg"
