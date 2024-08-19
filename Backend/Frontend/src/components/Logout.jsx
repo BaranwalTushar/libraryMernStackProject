@@ -1,5 +1,4 @@
 import React from 'react'
-import User from '../../../Backend/model/user.model'
 import toast from 'react-hot-toast'
 import { useAuth } from '../context/AuthProvider'
 
